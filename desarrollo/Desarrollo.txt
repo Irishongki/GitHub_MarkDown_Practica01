@@ -1,1 +1,0 @@
-<h2 align="center"> Aqui encontrás todo el código que tiene nuestro proyecto del Swing_P02_compendio </h2>
