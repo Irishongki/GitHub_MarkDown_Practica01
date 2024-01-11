@@ -89,4 +89,5 @@ Abrimos la linea de comandos (cmd) y nos situamos en la ruta donde esté guardad
 >La Licencia que tiene es EPL 1.0
 
 ## Recursos Adicionales📕
->https://github.com/
+>Página oficial de Github: https://github.com/
+>Página oficial de Eclipse: https://www.eclipse.org/
