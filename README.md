@@ -5,5 +5,6 @@
 <p align="center">
    <img src="https://img.shields.io/badge/STATUS-COMPLETADO-green">
     <img src="https://img.shields.io/badge/LENGUAJE-JAVA-orange">
+   <img src="https://img.shields.io/badge/fecha de creación-octubre del 2023-blue">
 </p>
 
