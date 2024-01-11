@@ -23,4 +23,4 @@
 * **_Recursos adicionales:_**
   * **_Link a la propia página de GitHub...etc_**
 
-## Descripción del proyecto
+## Descripción del proyectoℹ️
