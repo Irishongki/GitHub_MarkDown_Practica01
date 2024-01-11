@@ -31,5 +31,6 @@
 ## Desarrollo del proyecto🗒️
 
 1º Hemos elegido cual es la paleta de colores que vamos a utilizar en el proyecto:
+
 ![image](https://github.com/Irishongki/GitHub_MarkDown_Practica01/assets/48756218/3c060253-3104-48d8-9b09-5de04b7d20a2)
 
