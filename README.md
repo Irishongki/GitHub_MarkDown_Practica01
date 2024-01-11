@@ -57,3 +57,5 @@ Una vez que pinchemos en la opción de alta pisos tanto desde el menú como del 
 ![VentanaDialogoAltaPisos](https://github.com/Irishongki/GitHub_MarkDown_Practica01/assets/48756218/9a98876f-7e71-4fb2-b620-eaf5be4a0645)
 
 **Para los distintos paneles que aparecen en la ventana los dividiremos en clases distintas y los llamaremos desde esta ventana (PanelTitulo.java, PanelDatosArrendador.java, PanelDatosInmueble.java y PanelImprimirDatos.java)**
+
+Los botones que aparecen en nuestra ventana van 
