@@ -34,3 +34,5 @@
 
 ![image](https://github.com/Irishongki/GitHub_MarkDown_Practica01/assets/48756218/3c060253-3104-48d8-9b09-5de04b7d20a2)
 
+2º Ahora vamos a comenzar a desarrollar nuestro proyecto dividiendolo en varias clases con las distintas partes de nuestra interfaz gráfica. Vamos a tener 2 Ventanas: una que será la principal que aparezca para elegir la opción que queremos y otra donde añadiremos toda la información del piso que queremos alquilar
+que opción queremos y otra 
