@@ -83,3 +83,4 @@ Abrimos la linea de comandos (cmd) y nos situamos en la ruta donde esté guardad
 >Se trata de la versión 1.0 de este proyecto
 
 ## Autores👱‍♀️
+>Proyecto realizado por Irene Cañadas Pastor
