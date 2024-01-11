@@ -60,5 +60,7 @@ Una vez que pinchemos en la opción de alta pisos tanto desde el menú como del 
 
 Los botones que aparecen en nuestra ventana van a limpiar todos los campos (botón nuevo), poner un mensaje emergente si hemos guardado los datos (botón guardar) y mostrar la información en el panel de imprimir datos (botón imprimir)
 
-![image](https://github.com/Irishongki/GitHub_MarkDown_Practica01/assets/48756218/72a71554-8c34-46bc-8834-327a4dc9f2dd)
+![Guardar](https://github.com/Irishongki/GitHub_MarkDown_Practica01/assets/48756218/58bf12e3-43cf-429b-b7ee-d560a02c53a7)
+
+![Imprimir](https://github.com/Irishongki/GitHub_MarkDown_Practica01/assets/48756218/345c29c0-ae5f-4593-967d-1b9fa27d2548)
 
