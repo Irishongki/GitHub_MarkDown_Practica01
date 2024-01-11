@@ -67,10 +67,14 @@ Los botones que aparecen en nuestra ventana van a limpiar todos los campos (bot�
 ## Despliegue (como ejecutar la aplicación desde el ejecutable)🖥️
 
 * **Windows**
-Simplemente tenemos que pinchar en el ejecutable y se nos abrirá
+Simplemente tenemos que pinchar en el ejecutable y se nos abrirá:
 
->![image](https://github.com/Irishongki/GitHub_MarkDown_Practica01/assets/48756218/9dccdb52-7fbc-4ed8-89f1-5e6c6481185d)
+>![Windows](https://github.com/Irishongki/GitHub_MarkDown_Practica01/assets/48756218/9dccdb52-7fbc-4ed8-89f1-5e6c6481185d)
 
+* **Linea de comandos**
+Abrimos la linea de comandos (cmd) y nos situamos en la ruta donde esté guardado nuestro archivo .jar, una vez ahi ejecutaremos el suguiente comando y se nos abrirá la interfaz:
+
+>![CMD](https://github.com/Irishongki/GitHub_MarkDown_Practica01/assets/48756218/c6fbfde0-9520-4519-8cba-89c120039226)
 
 
 
