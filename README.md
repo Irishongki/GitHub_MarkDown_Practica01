@@ -50,5 +50,8 @@ También es importante ir informando al usuario de las acciones que realizamos, 
 
 ![BajaPisos](https://github.com/Irishongki/GitHub_MarkDown_Practica01/assets/48756218/6b695d42-2ff1-4d29-9ee3-70407e0e36d5)
 
+Una vez que pinchemos en la opción de alta pisos tanto desde el menú como del botón se nos abrirá la otra ventana que es donde introduciremos toda la información
 
+### Esta es la clase "VentanaDialogoAltaPisos.java" de la carpeta de desarrollo🗂️
 
+![image](https://github.com/Irishongki/GitHub_MarkDown_Practica01/assets/48756218/9a98876f-7e71-4fb2-b620-eaf5be4a0645)
