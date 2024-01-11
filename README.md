@@ -9,7 +9,7 @@
    <img src="https://img.shields.io/badge/License-EPL%201.0-red">
 </p>
 
-## Indice
+## Indice📑
 * **_Descripción del proyecto_**
 * **_Contenido de la publicación_**
 * **_Desarrollo del proyecto_**
