@@ -6,5 +6,6 @@
    <img src="https://img.shields.io/badge/STATUS-COMPLETADO-green">
     <img src="https://img.shields.io/badge/LENGUAJE-JAVA-orange">
    <img src="https://img.shields.io/badge/fecha de creación-octubre del 2023-blue">
+   <img src="https://img.shields.io/badge/License-EPL%201.0-red")](https://opensource.org/licenses/EPL-1.0)
 </p>
 
