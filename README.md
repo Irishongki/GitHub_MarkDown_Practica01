@@ -84,3 +84,9 @@ Abrimos la linea de comandos (cmd) y nos situamos en la ruta donde esté guardad
 
 ## Autores👱‍♀️
 >Proyecto realizado por Irene Cañadas Pastor
+
+## Licencia📃
+>La Licencia que tiene es EPL 1.0
+
+## Recursos Adicionales📕
+>https://github.com/
