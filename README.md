@@ -10,7 +10,7 @@
 </p>
 
 ## Indice
-* _Descripción del proyecto_
+* **_Descripción del proyecto_**
 * _Contenido de la publicación_
 * _Desarrollo del proyecto_
 * _Despliegue (como ejecutar la aplicación desde el ejecutable):_
