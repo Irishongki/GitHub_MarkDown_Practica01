@@ -13,12 +13,12 @@
 * _Descripción del proyecto_
 * _Contenido de la publicación_
 * _Desarrollo del proyecto_
-* _Despliegue (como ejecutar la aplicación desde el ejecutable)🖥️:_
-  * Windows
-  * Línea de comandos
-* Construido con
-* Versionado
-* Autores
-* Licencia
-* Recursos adicionales:
-  * Link a la propia página de GitHub...etc
+* _Despliegue (como ejecutar la aplicación desde el ejecutable):_
+  * _Windows_
+  * _Línea de comandos_
+* _Construido con_
+* _Versionado_
+* _Autores_
+* _Licencia_
+* _Recursos adicionales:_
+  * _Link a la propia página de GitHub...etc_
