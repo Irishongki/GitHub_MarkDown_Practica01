@@ -32,7 +32,7 @@
 
 1º Hemos elegido cual es la paleta de colores que vamos a utilizar en el proyecto:
 
-![image](https://github.com/Irishongki/GitHub_MarkDown_Practica01/assets/48756218/3c060253-3104-48d8-9b09-5de04b7d20a2)
+![paleta](https://github.com/Irishongki/GitHub_MarkDown_Practica01/assets/48756218/3c060253-3104-48d8-9b09-5de04b7d20a2)
 
 2º Ahora vamos a comenzar a desarrollar nuestro proyecto dividiendolo en varias clases con las distintas partes de nuestra interfaz gráfica. Vamos a tener 2 Ventanas: una que será la principal que aparezca para elegir la opción que queremos y otra donde añadiremos toda la información del piso que queremos alquilar.
 
@@ -40,5 +40,14 @@
 
 **Como podemos ver tenemos nuestra ventana principal con dos botones: uno de alta pisos y otro de baja pisos, además de tener un menu superior con las opciones de salir, las dos opciones de alta y baja pisos que
 podremos acceder por aquí también y la opción de ayuda para más información**
+
+También es importante ir informando al usuario de las acciones que realizamos asi que cuando pulsemos tanto en salir, como en baja pisos, como en ayuda nos a parecerán estos mensajes emergentes:
+
+![Salir](https://github.com/Irishongki/GitHub_MarkDown_Practica01/assets/48756218/9034c7d1-8191-4cd6-9e6a-5d9e7b62b130)
+
+![Ayuda](https://github.com/Irishongki/GitHub_MarkDown_Practica01/assets/48756218/1849379f-52a6-4029-9482-72989ff9500c)
+
+![BajaPisos](https://github.com/Irishongki/GitHub_MarkDown_Practica01/assets/48756218/6b695d42-2ff1-4d29-9ee3-70407e0e36d5)
+
 
 
