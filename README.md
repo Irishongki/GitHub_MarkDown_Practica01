@@ -23,4 +23,4 @@
 * **_Recursos adicionales:_**
   * **_Link a la propia página de GitHub...etc_**
 
-### Indice
+## Descripción del proyecto
