@@ -9,9 +9,8 @@
    <img src="https://img.shields.io/badge/License-EPL%201.0-red">
 </p>
 
-## Indice📑
+## Contenido de la publicación📑
 * **_Descripción del proyecto_**
-* **_Contenido de la publicación_**
 * **_Desarrollo del proyecto_**
 * **_Despliegue (como ejecutar la aplicación desde el ejecutable):_**
   * **_Windows_**
