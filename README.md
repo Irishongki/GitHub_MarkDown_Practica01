@@ -42,7 +42,7 @@
 **Como podemos ver tenemos nuestra ventana principal con dos botones: uno de alta pisos y otro de baja pisos, además de tener un menu superior con las opciones de salir, las dos opciones de alta y baja pisos que
 podremos acceder por aquí también y la opción de ayuda para más información**
 
-También es importante ir informando al usuario de las acciones que realizamos asi que cuando pulsemos tanto en salir, como en baja pisos, como en ayuda nos a parecerán estos mensajes emergentes:
+También es importante ir informando al usuario de las acciones que realizamos, así que cuando pulsemos tanto en salir, como en baja pisos, como en ayuda nos a parecerán estos mensajes emergentes:
 
 ![Salir](https://github.com/Irishongki/GitHub_MarkDown_Practica01/assets/48756218/9034c7d1-8191-4cd6-9e6a-5d9e7b62b130)
 
