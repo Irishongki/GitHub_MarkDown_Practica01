@@ -10,8 +10,8 @@
 </p>
 
 ## Indice
-* Descripción del proyecto
-* Contenido de la publicación
+* _Descripción del proyecto_
+* _Contenido de la publicación_
 * Desarrollo del proyecto
 * Despliegue (como ejecutar la aplicación desde el ejecutable):
   * Windows
