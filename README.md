@@ -79,3 +79,5 @@ Abrimos la linea de comandos (cmd) y nos situamos en la ruta donde esté guardad
 ## Construido con✍️
 >He realizado este proyecto con el entorno de trabajo de Eclipse y utilizando el lenguaje Java
 
+## Versionado☑️
+>Se trata de la versión 1.0 de este proyecto
