@@ -64,3 +64,7 @@ Los botones que aparecen en nuestra ventana van a limpiar todos los campos (bot�
 
 ![Imprimir](https://github.com/Irishongki/GitHub_MarkDown_Practica01/assets/48756218/345c29c0-ae5f-4593-967d-1b9fa27d2548)
 
+## Despliegue (como ejecutar la aplicación desde el ejecutable)🖥️
+
+
+
