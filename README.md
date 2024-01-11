@@ -67,6 +67,9 @@ Los botones que aparecen en nuestra ventana van a limpiar todos los campos (bot�
 ## Despliegue (como ejecutar la aplicación desde el ejecutable)🖥️
 
 * **Windows**
+Simplemente tenemos que pinchar en el ejecutable y se nos abrirá
+
+>![image](https://github.com/Irishongki/GitHub_MarkDown_Practica01/assets/48756218/9dccdb52-7fbc-4ed8-89f1-5e6c6481185d)
 
 
 
