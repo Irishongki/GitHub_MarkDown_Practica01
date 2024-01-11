@@ -66,5 +66,8 @@ Los botones que aparecen en nuestra ventana van a limpiar todos los campos (bot�
 
 ## Despliegue (como ejecutar la aplicación desde el ejecutable)🖥️
 
+* **Windows**
+
+
 
 
