@@ -26,3 +26,6 @@
 >Se trata de una interfaz gráfica, que permita gestionar una plataforma de pisos de alquiler turísticos. En este caso
 >mi interfaz se ha llamado "IRIS APARTAMENTS" y tiene tanto opciones para salir de nuestra interfaz como para poder dar de alta un piso turistico eligiendo las características que queremos que tenga.
 >La opción de dar de baja un piso todavía no está implementada.
+
+
+## Desarrollo del proyecto🗒️
