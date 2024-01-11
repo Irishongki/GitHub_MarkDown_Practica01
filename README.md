@@ -12,8 +12,8 @@
 ## Indice
 * _Descripción del proyecto_
 * _Contenido de la publicación_
-* Desarrollo del proyecto
-* Despliegue (como ejecutar la aplicación desde el ejecutable):
+* _Desarrollo del proyecto_
+* _Despliegue (como ejecutar la aplicación desde el ejecutable)🖥️:_
   * Windows
   * Línea de comandos
 * Construido con
