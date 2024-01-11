@@ -34,4 +34,11 @@
 
 ![image](https://github.com/Irishongki/GitHub_MarkDown_Practica01/assets/48756218/3c060253-3104-48d8-9b09-5de04b7d20a2)
 
-2º Ahora vamos a comenzar a desarrollar nuestro proyecto dividiendolo en varias clases con las distintas partes de nuestra interfaz gráfica. Vamos a tener 2 Ventanas: una que será la principal que aparezca para elegir la opción que queremos y otra donde añadiremos toda la información del piso que queremos alquilar
+2º Ahora vamos a comenzar a desarrollar nuestro proyecto dividiendolo en varias clases con las distintas partes de nuestra interfaz gráfica. Vamos a tener 2 Ventanas: una que será la principal que aparezca para elegir la opción que queremos y otra donde añadiremos toda la información del piso que queremos alquilar.
+
+![image](https://github.com/Irishongki/GitHub_MarkDown_Practica01/assets/48756218/4bf7dca0-2f0c-4119-8fa3-e899b169b945)
+
+**Como podemos ver tenemos nuestra ventana principal con dos botones: uno de alta pisos y otro de baja pisos, además de tener un menu superior con las opciones de salir, las dos opciones de alta y baja pisos que
+podremos acceder por aquí también y la opción de ayuda para más información**
+
+
