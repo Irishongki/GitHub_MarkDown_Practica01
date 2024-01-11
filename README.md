@@ -58,4 +58,7 @@ Una vez que pinchemos en la opción de alta pisos tanto desde el menú como del 
 
 **Para los distintos paneles que aparecen en la ventana los dividiremos en clases distintas y los llamaremos desde esta ventana (PanelTitulo.java, PanelDatosArrendador.java, PanelDatosInmueble.java y PanelImprimirDatos.java)**
 
-Los botones que aparecen en nuestra ventana van 
+Los botones que aparecen en nuestra ventana van a limpiar todos los campos (botón nuevo), poner un mensaje emergente si hemos guardado los datos (botón guardar) y mostrar la información en el panel de imprimir datos (botón imprimir)
+
+![image](https://github.com/Irishongki/GitHub_MarkDown_Practica01/assets/48756218/72a71554-8c34-46bc-8834-327a4dc9f2dd)
+
